@@ -1,0 +1,51 @@
+title = "CodeRec"
+baseURL = "http://baiwenl.github.io"
+languageCode = "en-us"
+
+paginate = 10
+
+[permalinks]
+    post = "/post/:year-:month-:day/:title/"
+[author]
+    name = "baiwenl"
+    email = "baiwenl <at> msn <dot> com"
+[params]
+    languageCode = "en-us"
+    author = "baiwenl"
+    copyright = "2017 ~ baiwenl"
+
+    #twitter = "https://twitter.com/baiwenl"
+    github = "https://github.com/baiwenl"
+    #facebook = "https://www.facebook.com/baiwenl"
+    #delicious = ""
+    #linkedin = "https://www.linkedin.com/in/baiwenl"
+    #flickr = ""
+    use_summaries = false
+[params.strings]
+    home_navbar_link = "Home"
+    blog_navbar_link = "Post"
+    posts_list_header = "Posts"
+    date_format = '2006-01-02'
+[params.theme]
+    inverse = false # indicating if the theme should use inversed colors
+    name = "yeti"   # name of the theme to use
+
+    # list of possible theme names that can be used
+    # name = "cerulean"
+    # name = "cosmo"
+    # name = "cyborg"
+    # name = "default"
+    # name = "flatly"
+    # name = "journal"
+    # name = "lumen"
+    # name = "paper"
+    # name = "readable"
+    # name = "sandstone"
+    # name = "simplex"
+    # name = "slate"
+    # name = "spacelabs"
+    # name = "superhero"
+    # name = "united"
+    # name = "yeti"
+
+    
