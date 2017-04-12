@@ -1,5 +1,5 @@
 title = "CodeRec"
-baseURL = "http://baiwenl.github.io"
+baseURL = "https://baiwenl.github.io"
 languageCode = "en-us"
 
 paginate = 10
