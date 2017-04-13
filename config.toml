@@ -21,6 +21,8 @@ paginate = 10
     #linkedin = "https://www.linkedin.com/in/baiwenl"
     #flickr = ""
     use_summaries = false
+    baidutongji = "5b34cd24ec494d8d62a6b74e1683e729"
+
 [params.strings]
     home_navbar_link = "Home"
     blog_navbar_link = "Post"
